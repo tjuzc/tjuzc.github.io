@@ -39,32 +39,6 @@
   </entry>
   
   <entry>
-    <title>Sphinx</title>
-    <link href="http://yoursite.com/2018/12/22/sphinx/"/>
-    <id>http://yoursite.com/2018/12/22/sphinx/</id>
-    <published>2018-12-21T17:35:48.689Z</published>
-    <updated>2018-12-21T17:38:47.793Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;###Sphinx：SQL Phrase Index  基于SQL的全文检索引擎&lt;/p&gt;
-&lt;p&gt;####主要特性：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;高速建立索引（10MB/sec）&lt;/li&gt;
-&lt;li&gt;快速搜索（在2到4G的文本中只需0.1秒）
-        
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
     <title>Hello World</title>
     <link href="http://yoursite.com/2018/12/21/hello-world/"/>
     <id>http://yoursite.com/2018/12/21/hello-world/</id>
