@@ -1,20 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>扬帆远航</title>
+  <title>三天打鱼，两天晒网</title>
   
-  
+  <subtitle>一个无趣的人</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-12-21T17:51:00.988Z</updated>
+  <updated>2021-07-17T15:35:29.640Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>张驰</name>
+    <name>张小池</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>随笔 7.17</title>
+    <link href="http://yoursite.com/2021/07/17/%E9%9A%8F%E7%AC%94-7-17/"/>
+    <id>http://yoursite.com/2021/07/17/随笔-7-17/</id>
+    <published>2021-07-17T15:35:29.000Z</published>
+    <updated>2021-07-17T15:35:29.640Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>全新博客之旅</title>
